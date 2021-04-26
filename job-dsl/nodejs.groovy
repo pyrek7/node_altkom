@@ -1,4 +1,4 @@
-job ('niodejs job')
+job ('test code job')
 {
     scm {
         git('https://github.com/pyrek7/node_altkom.git') { node ->
@@ -16,6 +16,6 @@ job ('niodejs job')
     }
 
     steps {
-        	shell('node app.js')
+        	shell('npm test')
     }
 }
