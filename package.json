@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "test": "mocha"
+        "test": "sudo mocha"
     },
     "devDependencies": {
         "mocha": "^8.3.2"
