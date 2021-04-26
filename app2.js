@@ -1,4 +1,4 @@
-console.log('app2.js')
+console.log('app213.js')
 console.log('ustawiam parametry...')
 console.log('przetwarzam dane...')
 console.log("wykonuje mega skomplikowane obliczenia...")
